@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jpbigdata2021
+- 👋 Hi, I’m @Jayaprakash
 - 👀 I’m interested in Data engineering 
 - 🌱 I’m currently keep learning Bigdata tools
 - 💞️ I’m looking to collaborate on bigdata 
